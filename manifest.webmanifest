@@ -1,0 +1,16 @@
+{
+  "name": "台北市長大作戰",
+  "short_name": "市長大作戰",
+  "description": "十週選戰，每個決定都會改變開票結果。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#CFE8F7",
+  "theme_color": "#CFE8F7",
+  "lang": "zh-Hant-TW",
+  "icons": [
+    { "src": "assets/icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

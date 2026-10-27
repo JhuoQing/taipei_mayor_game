@@ -1,0 +1,14 @@
+# 任何可能放金鑰的檔案都不要進 repo
+.env
+.env.*
+*.key
+*.pem
+secrets*
+*.local.js
+*.local.json
+
+# 系統與工具產生的檔案
+.DS_Store
+Thumbs.db
+node_modules/
+*.zip
